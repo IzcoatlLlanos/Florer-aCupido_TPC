@@ -1,0 +1,29 @@
+body{
+  background-color: black;
+  font-family: sans-serif;
+}
+
+.main{
+  border: #886A08 2pt solid;
+  width: auto;
+  background-color: #3B0B0B;
+  margin: 10pt 15pt 15pt 20pt;
+  padding-right: 5pt;
+  padding-left: 10pt;
+}
+.encabezado{
+  width: auto;
+  height: 20%;
+}
+
+.lateral{
+
+}
+#titulo{
+  color: #886A08;
+  font-weight: bold;
+  font-style: oblique;
+  font-size: 40pt;
+  text-align: center;
+
+}
